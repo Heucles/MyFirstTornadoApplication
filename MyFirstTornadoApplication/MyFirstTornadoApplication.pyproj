@@ -6,7 +6,7 @@
     <ProjectGuid>19fbe7cb-8338-454d-bcff-a9e21ec6f5d6</ProjectGuid>
     <ProjectHome>
     </ProjectHome>
-    <StartupFile>Expl2-4main.py</StartupFile>
+    <StartupFile>Expl3-3main.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -29,6 +29,7 @@
     <Compile Include="Expl1-1hello.py" />
     <Compile Include="Expl1-2string_service.py" />
     <Compile Include="Expl2-4main.py" />
+    <Compile Include="Expl3-3main.py" />
     <Compile Include="Expl2-1poemmaker.py" />
   </ItemGroup>
   <ItemGroup>
@@ -49,6 +50,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="static\Exple2-7style.css" />
+    <Content Include="templates\Expl3-2index.html" />
+    <Content Include="templates\Expl3-1main.html" />
     <Content Include="templates\Expl2-6munged.html" />
     <Content Include="templates\Expl2-5index.html" />
     <Content Include="templates\Expl2-3poem.html" />
